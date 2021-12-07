@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bevásárlólista</string>
+    <string name="hint">Feladat</string>
+    <string name="button_save">Mentés</string>
+    <string name="empty_not_saved">A mentés sikertelen volt. Nem adtál meg teendőt!</string>
+    <string name="task">Teendő</string>
+    <string name="description">Leírás</string>
+</resources>
